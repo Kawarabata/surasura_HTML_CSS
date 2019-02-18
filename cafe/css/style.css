@@ -132,3 +132,7 @@ a:active {
 .menu-text {
   flex: 0 0 336px;
 }
+/* access.html */
+.map {
+  text-align: center;
+}
